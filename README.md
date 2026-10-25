@@ -21,7 +21,7 @@
 ### 🧠 About Me
 
 - 🎓 Computer Science student at the **University of Wollongong**, specializing in **AI & Big Data**
-- 📊 Working toward becoming a **Data Scientist** — building ML models, data dashboards, and the occasional web app
+- 📊 Working toward becoming a **Data Scientist** building ML models, data dashboards, and the occasional web app
 - 🛠️ Currently building **NeuraMed** (an MDCAT prep platform) and **VOIDSAINT** (a clothing brand)
 - 🎬 Off the keyboard: world cinema, arthouse film, and a soft spot for collage / zine design
 - 📫 Reach me at **venromino@gmail.com**
@@ -70,4 +70,4 @@
 
 ---
 
-<p align="center"><i>"Turning data into decisions — one model at a time."</i></p>
+<p align="center"><i>"Turning data into decisions - one model at a time."</i></p>
